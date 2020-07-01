@@ -1,2 +1,2 @@
 # GitTutorial
-Learning to use git and github
+Learning to use github is sooooooo fun!
